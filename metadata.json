@@ -1,0 +1,6 @@
+{
+  "name": "Sierra Leone National Research & Innovation Portal",
+  "description": "Official SLNRIP platform featuring strict 15-second OTP verification, exclusive founder backend administration, researcher dashboards, and grant proposal management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
